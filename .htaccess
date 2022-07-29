@@ -1,0 +1,2 @@
+AuthName "saul_files"
+AuthUserFile "/home4/codeshor/.htpasswds/public_html/passwd"
